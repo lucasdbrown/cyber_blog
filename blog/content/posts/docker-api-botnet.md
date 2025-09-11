@@ -61,6 +61,7 @@ The docker-init.sh script first adds the attacker's public key under the SSH aut
 
 The attacker then sends an HTTP POST request back to the .onion C2 server to let the attacker know that the compromise was successful. Once this communication is established, the attackers download a binary from another Tor site onto the victim. This binary includes a dropper that contains the content it wants to drop, preventing it from communicating with the internet. The dropper drops a file (dockerd) that executes a masscan that searches for other open Docker API open ports (2375), and if it finds one, it will go through the same container creation process. The attacker's primary goal, which was not seen by earlier variants of the malware, is an initial version of a complex botnet, but the researchers have not found a complete version of it so far.
 
+> Takeaways: Expose as few services as possible to the internet and isolate your Docker network from other parts of your network.
 
 ## References
 
