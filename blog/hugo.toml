@@ -1,0 +1,17 @@
+baseURL = "https://yourusername.github.io/"
+title = "Lucas Brown — Cybersecurity Blog"
+theme = "PaperMod"
+languageCode = "en-us"
+
+# Enable syntax highlighting for code blocks
+[markup]
+  [markup.highlight]
+    style = "dracula"
+    lineNos = true
+
+# Enable menus and social links
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
