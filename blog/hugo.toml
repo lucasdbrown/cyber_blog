@@ -1,6 +1,6 @@
-baseURL = "https://yourusername.github.io/"
+baseURL = "https://lucasdbrown.github.io/"
 title = "Lucas Brown — Cybersecurity Blog"
-theme = "PaperMod"
+theme = "Blowfish"
 languageCode = "en-us"
 
 # Enable syntax highlighting for code blocks
@@ -15,3 +15,21 @@ languageCode = "en-us"
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowCodeCopyButtons = true
+
+# Author information
+[author]
+  name = "Lucas Brown"
+  email = ""
+  bio = "RIT Junior Cybersecurity Major passionate about malware analysis, APT campaigns, and OT Security"
+  avatar = "/profile.jpg"
+
+# Social links
+[[params.social]]
+  name = "GitHub"
+  url = "https://github.com/lucasdbrown"
+  icon = "github"
+
+[[params.social]]
+  name = "LinkedIn"
+  url = "https://linkedin.com/in/lucas-d-brown/"
+  icon = "linkedin"

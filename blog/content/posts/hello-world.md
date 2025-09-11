@@ -5,7 +5,5 @@ draft = true
 tags = ["cybersecurity", "ics-security", "malware-analysis"]
 +++
 
-This is my first post! I'll be writing about ICS security, malware analysis, and red-team simulations.
+This is my first post! I'll be writing about ICS security, malware analysis, and random cybersecurity topics or areas I'm interested in.
 
-```bash
-nmap -sV -p 1-65535 192.168.1.100
