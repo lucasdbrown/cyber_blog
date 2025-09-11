@@ -18,4 +18,7 @@ The rogue versions of the packages have been found to contain a **post-install**
 
 After the attack, the Nx team undertook remedial actions, including rotating their npm and GitHub tokens, auditing GitHub and npm activities for suspicious activity, and updating **Publish** access to require MFA or automation. **Wiz** researchers said **~90%** of over **1,000** leaked GitHub tokens are still valid, and that there also exist dozens of legitimate cloud credentials and npm tokens.
 
-> Takeaway: don’t use `pull_request_target` unless you absolutely must, scope `GITHUB_TOKEN`, require MFA for publish, and treat package post-install scripts as hostile by default.
+> Takeaway: Audit for suspicious activities and rotate your tokens 
+
+## References:
+- [TheHackerNews - Malicious Nx Packages in 's1ngularity' Attack Leaked 2,349 GitHub, Cloud, and AI Credentials](https://thehackernews.com/2025/08/malicious-nx-packages-in-s1ngularity.html)

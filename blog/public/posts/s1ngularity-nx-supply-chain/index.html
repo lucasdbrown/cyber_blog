@@ -4,7 +4,7 @@
   dir="ltr"
   class="scroll-smooth"
   data-default-appearance="dark"
-  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=61049&amp;path=livereload" data-no-instant defer></script>
+  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   
     <meta http-equiv="content-language" content="en-us">
@@ -22,7 +22,7 @@
   <meta name="keywords" content="supply-chain,GitHub Actions,npm,Nx,CI/CD,token-leakage,">
   
   
-  <link rel="canonical" href="http://localhost:61049/posts/s1ngularity-nx-supply-chain/">
+  <link rel="canonical" href="http://localhost:1313/posts/s1ngularity-nx-supply-chain/">
   
   
   
@@ -95,7 +95,7 @@
   
 
   
-  <meta property="og:url" content="http://localhost:61049/posts/s1ngularity-nx-supply-chain/">
+  <meta property="og:url" content="http://localhost:1313/posts/s1ngularity-nx-supply-chain/">
   <meta property="og:site_name" content="Lucas Brown — Cybersecurity Blog">
   <meta property="og:title" content="Malicious Nx Packages Attack Leaked 2,349 Credentials">
   <meta property="og:locale" content="en_us">
@@ -124,7 +124,7 @@
     
     
     "inLanguage": "en-us",
-    "url" : "http:\/\/localhost:61049\/posts\/s1ngularity-nx-supply-chain\/",
+    "url" : "http:\/\/localhost:1313\/posts\/s1ngularity-nx-supply-chain\/",
     "author" : {
       "@type": "Person",
       "name": "Lucas Brown"
@@ -138,7 +138,7 @@
     "keywords": ["supply-chain","GitHub Actions","npm","Nx","CI/CD","token-leakage"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "293"
+    "wordCount": "296"
   }]
   </script>
 
@@ -391,7 +391,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-09-04T00:00:00&#43;00:00">September 4, 2025</time><span class="px-2 text-primary-500">&middot;</span><span>293 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">2 mins</span>
+      <time datetime="2025-09-04T00:00:00&#43;00:00">September 4, 2025</time><span class="px-2 text-primary-500">&middot;</span><span>296 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">2 mins</span>
     
 
     
@@ -485,7 +485,23 @@
 <p>The rogue versions of the packages have been found to contain a <strong>post-install</strong> script that’s activated after package installation to scan a system for text files, collect credentials, and send the details as an encoded string to a publicly accessible GitHub repository containing the name <strong>“s1ngularity-repository.”</strong></p>
 <p>After the attack, the Nx team undertook remedial actions, including rotating their npm and GitHub tokens, auditing GitHub and npm activities for suspicious activity, and updating <strong>Publish</strong> access to require MFA or automation. <strong>Wiz</strong> researchers said <strong>~90%</strong> of over <strong>1,000</strong> leaked GitHub tokens are still valid, and that there also exist dozens of legitimate cloud credentials and npm tokens.</p>
 <blockquote>
-<p>Takeaway: don’t use <code>pull_request_target</code> unless you absolutely must, scope <code>GITHUB_TOKEN</code>, require MFA for publish, and treat package post-install scripts as hostile by default.</p></blockquote>
+<p>Takeaway: Audit for suspicious activities and rotate your tokens</p></blockquote>
+
+<h2 class="relative group">References: 
+    <div id="references" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#references" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<ul>
+<li><a
+  href="https://thehackernews.com/2025/08/malicious-nx-packages-in-s1ngularity.html"
+    target="_blank"
+  >TheHackerNews - Malicious Nx Packages in &lsquo;s1ngularity&rsquo; Attack Leaked 2,349 GitHub, Cloud, and AI Credentials</a></li>
+</ul>
           
           
           
@@ -520,6 +536,42 @@
     
     <footer class="pt-8 max-w-prose print:hidden">
       
+  
+    
+    
+    
+    <div class="pt-8">
+      <hr class="border-dotted border-neutral-300 dark:border-neutral-600">
+      <div class="flex justify-between pt-3">
+        <span>
+          
+        </span>
+        <span>
+          
+            <a class="flex text-right group ml-3" href="/posts/docker-api-botnet/">
+              <span class="flex flex-col">
+                <span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >Docker API Malware Variant with Botnet Capabilities</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2025-09-11T00:00:00&#43;00:00">September 11, 2025</time>
+                  
+                </span>
+              </span>
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+            </a>
+          
+        </span>
+      </div>
+    </div>
   
 
 
@@ -584,7 +636,7 @@
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh] z-500"
-  data-url="http://localhost:61049/">
+  data-url="http://localhost:1313/">
   <div
     id="search-modal"
     class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800">
