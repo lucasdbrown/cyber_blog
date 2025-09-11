@@ -7,14 +7,11 @@ Welcome to my cybersecurity blog! I'm Lucas Brown, a Junior at the Rochester Ins
 
 ## About Me
 
-I'm passionate about understanding the ever-evolving landscape of cyber threats and developing effective defense strategies. My areas of expertise include:
+I'm passionate about understanding the ever-evolving landscape of cyber threats, from headline-grabbing campaigns to the subtle tradecraft of advanced threat actors. I enjoy digging into malware samples, dissecting the techniques behind APT operations, and exploring what they reveal about the broader threat landscape.
 
-- **Malware Analysis**: Reverse engineering malicious software to understand attack vectors and develop countermeasures
-- **APT Campaigns**: Studying Advanced Persistent Threat groups and their sophisticated attack methodologies  
-- **OT Security**: Protecting Operational Technology and Industrial Control Systems from cyber threats
-- **Threat Intelligence**: Analyzing threat actors and their tactics, techniques, and procedures (TTPs)
+A big part of my focus is OT security—how we defend critical infrastructure like power grids, water plants, and manufacturing systems. I’ve built simulations and digital twins to model these environments, giving me hands-on ways to study protocols, industrial control systems (ICS), and the kinds of attacks that have shaped industrial security and cybersecurity in general.
 
-Through this blog, I share my research, analysis, and insights into the cybersecurity world. Whether it's breaking down a new malware sample, analyzing an APT campaign, or exploring OT security challenges, I aim to contribute to the cybersecurity community and help others learn about these critical topics.
+Through this blog, I share my research, analysis, and interests in the cybersecurity world. Whether it's breaking down a new malware sample, analyzing an APT campaign, or exploring OT security challenges, I aim to contribute to the cybersecurity community and help others learn about these critical topics.
 
 ## Connect With Me
 

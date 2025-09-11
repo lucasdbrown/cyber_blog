@@ -23,6 +23,12 @@ languageCode = "en-us"
   bio = "RIT Junior Cybersecurity Major passionate about malware analysis, APT campaigns, and OT Security"
   avatar = "/profile.jpg"
 
+# Author parameters for theme
+[params.author]
+  name = "Lucas Brown"
+  image = "profile.jpg"
+  headline = "RIT Junior Cybersecurity Major"
+
 # Social links
 [[params.social]]
   name = "GitHub"
