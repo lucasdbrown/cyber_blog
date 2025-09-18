@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code Injection on Lucas Brown — Cybersecurity Blog</title>
+    <link>http://localhost:1313/tags/code-injection/</link>
+    <description>Recent content in Code Injection on Lucas Brown — Cybersecurity Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2025 Lucas Brown</copyright>
+    <lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/code-injection/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Chain of Chaos Mesh CVEs enable RCE in Kubernetes Clusters</title>
+      <link>http://localhost:1313/posts/chaos-mesh-rce/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/chaos-mesh-rce/</guid>
+      <description>&lt;p&gt;JFrog Researchers found that if attackers are able to gain initial access to a Kubernetes Cluster’s network, they can exploit a chain of CVEs found in Chaos Mesh to perform remote code execution (RCE) across the cluster. Chaos Mesh is an open-source cloud-native Chaos Engineering platform that offers various types of fault simulation, simulating various abnormalities that might occur during the software development lifecycle. The Chaos Controller Manager, a part of the platform, by default, exposes a GraphQL debugging server, which does not have authentication. This allows an attacker to have access to an API that they can use to kill processes in any Kubernetes pod, which could lead to a cluster-wide Denial of Service (DoS) attack (CVE-2025-59358, CVSS score: 7.5).  With access to the Controller Manager, the researchers discovered three mutations that would allow command injection by user input being concatenated directly into “cmd” parameters and executed on a desired pod, allowing attackers to add arbitrary shell commands to execute (RCE). These three mutations—cleanTcs (CVE-2025-59359, CVSS score: 9.8), killProcesses (CVE-2025-59360, CVSS score: 9.8), and cleanIptables (CVE-2025-59361, CVSS score: 9.8)—all allow an attacker to move laterally across a victim’s network. Threat actors could also leverage this access to potentially exfiltrate sensitive data and disrupt critical services across the cluster. Users are advised to update their installations to the latest version as soon as possible.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

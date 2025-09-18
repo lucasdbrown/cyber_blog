@@ -7,12 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2025 Lucas Brown</copyright>
-    <lastBuildDate>Thu, 11 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Chain of CVEs enable RCE in Kubernetes Clusters</title>
+      <link>http://localhost:1313/posts/chaos-mesh-rce/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/chaos-mesh-rce/</guid>
+      <description>&lt;p&gt;JFrog Researchers found that if attackers are able to gain initial access to a Kubernetes Cluster’s network, they can exploit a chain of CVEs found in Chaos Mesh to perform remote code execution (RCE) across the cluster. Chaos Mesh is an open-source cloud-native Chaos Engineering platform that offers various types of fault simulation, simulating various abnormalities that might occur during the software development lifecycle. The Chaos Controller Manager, a part of the platform, by default, exposes a GraphQL debugging server, which does not have authentication. This allows an attacker to have access to an API that they can use to kill processes in any Kubernetes pod, which could lead to a cluster-wide Denial of Service (DoS) attack (CVE-2025-59358, CVSS score: 7.5).&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>Docker API Malware Variant with Botnet Capabilities</title>
       <link>http://localhost:1313/posts/docker-api-botnet/</link>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/docker-api-botnet/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;Initial Exploitation 

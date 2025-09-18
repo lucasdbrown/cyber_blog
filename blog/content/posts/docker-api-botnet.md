@@ -1,6 +1,6 @@
 ---
 title: "Docker API Malware Variant with Botnet Capabilities"
-date: 2025-09-11
+date: 2025-09-10
 draft: false
 tags: ["docker", "malware", "tor", "api", "threat-hunting"]
 ---

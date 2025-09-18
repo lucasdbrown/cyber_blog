@@ -7,34 +7,114 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2025 Lucas Brown</copyright>
-    <lastBuildDate>Thu, 11 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Cybersecurity</title>
-      <link>http://localhost:1313/tags/cybersecurity/</link>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <title>Api</title>
+      <link>http://localhost:1313/tags/api/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/cybersecurity/</guid>
+      <guid>http://localhost:1313/tags/api/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Ics-Security</title>
-      <link>http://localhost:1313/tags/ics-security/</link>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <title>Chaos-Mesh</title>
+      <link>http://localhost:1313/tags/chaos-mesh/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/ics-security/</guid>
+      <guid>http://localhost:1313/tags/chaos-mesh/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Malware-Analysis</title>
-      <link>http://localhost:1313/tags/malware-analysis/</link>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <title>Code Injection</title>
+      <link>http://localhost:1313/tags/code-injection/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/malware-analysis/</guid>
+      <guid>http://localhost:1313/tags/code-injection/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>http://localhost:1313/tags/kubernetes/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/kubernetes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Malicious Packages</title>
+      <link>http://localhost:1313/tags/malicious-packages/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/malicious-packages/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rce</title>
+      <link>http://localhost:1313/tags/rce/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/rce/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Security-Research</title>
+      <link>http://localhost:1313/tags/security-research/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/security-research/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Threat-Hunting</title>
+      <link>http://localhost:1313/tags/threat-hunting/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/threat-hunting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:1313/tags/docker/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/docker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Malware</title>
+      <link>http://localhost:1313/tags/malware/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/malware/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tor</title>
+      <link>http://localhost:1313/tags/tor/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/tor/</guid>
       <description></description>
       
     </item>
