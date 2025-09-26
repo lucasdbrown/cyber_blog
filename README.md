@@ -2,6 +2,11 @@
 
 A Hugo-based cybersecurity blog hosted on GitHub Pages, featuring content about malware analysis, APT campaigns, and OT Security.
 
+> Hosted on GitHub Pages on: 
+```sh
+https://lucasdbrown.github.io/cyber_blog
+```
+
 ## 🚀 Quick Start
 
 ### Prerequisites
