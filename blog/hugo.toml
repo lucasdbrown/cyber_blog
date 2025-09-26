@@ -1,6 +1,6 @@
 baseURL = "https://lucasdbrown.github.io/"
 title = "Lucas Brown — Cybersecurity Blog"
-theme = "Blowfish"
+theme = "blowfish"
 languageCode = "en-us"
 
 # Enable syntax highlighting for code blocks
