@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ics-Security on Lucas Brown — Cybersecurity Blog</title>
+    <link>http://localhost:1313/tags/ics-security/</link>
+    <description>Recent content in Ics-Security on Lucas Brown — Cybersecurity Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2025 Lucas Brown</copyright>
+    <lastBuildDate>Thu, 11 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ics-security/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;This is my first post! I&amp;rsquo;ll be writing about ICS security, malware analysis, and random cybersecurity topics or areas I&amp;rsquo;m interested in.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
