@@ -1,6 +1,7 @@
 [submodule "blog/themes/PaperMod"]
-	path = blog/themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod
-[submodule "themes/blowfish"]
-	path = themes/blowfish
-	url = https://github.com/nunocoracao/blowfish
+    path = blog/themes/PaperMod
+    url = https://github.com/adityatelange/hugo-PaperMod
+
+[submodule "blog/themes/blowfish"]
+    path = blog/themes/blowfish
+    url = https://github.com/nunocoracao/blowfish
