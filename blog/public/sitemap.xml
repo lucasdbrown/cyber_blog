@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/malterminal/</loc>
+    <loc>http://localhost:1313/cyber_blog/posts/malterminal/</loc>
     <lastmod>2025-09-26T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/cyber_blog/</loc>
     <lastmod>2025-09-26T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/cyber_blog/posts/</loc>
     <lastmod>2025-09-26T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/chaos-mesh-rce/</loc>
+    <loc>http://localhost:1313/cyber_blog/posts/chaos-mesh-rce/</loc>
     <lastmod>2025-09-18T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/docker-api-botnet/</loc>
+    <loc>http://localhost:1313/cyber_blog/posts/docker-api-botnet/</loc>
     <lastmod>2025-09-10T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/s1ngularity-nx-supply-chain/</loc>
+    <loc>http://localhost:1313/cyber_blog/posts/s1ngularity-nx-supply-chain/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
   </url>
 </urlset>

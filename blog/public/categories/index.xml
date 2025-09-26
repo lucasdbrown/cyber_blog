@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Lucas Brown — Cybersecurity Blog</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://localhost:1313/cyber_blog/categories/</link>
     <description>Recent content in Categories on Lucas Brown — Cybersecurity Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2025 Lucas Brown</copyright>
-    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/cyber_blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cybersecurity</title>
-      <link>http://localhost:1313/categories/cybersecurity/</link>
+      <link>http://localhost:1313/cyber_blog/categories/cybersecurity/</link>
       <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/cybersecurity/</guid>
+      <guid>http://localhost:1313/cyber_blog/categories/cybersecurity/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Malware Analysis</title>
-      <link>http://localhost:1313/categories/malware-analysis/</link>
+      <link>http://localhost:1313/cyber_blog/categories/malware-analysis/</link>
       <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/malware-analysis/</guid>
+      <guid>http://localhost:1313/cyber_blog/categories/malware-analysis/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Incident Analysis</title>
-      <link>http://localhost:1313/categories/incident-analysis/</link>
+      <link>http://localhost:1313/cyber_blog/categories/incident-analysis/</link>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/incident-analysis/</guid>
+      <guid>http://localhost:1313/cyber_blog/categories/incident-analysis/</guid>
       <description></description>
       
     </item>

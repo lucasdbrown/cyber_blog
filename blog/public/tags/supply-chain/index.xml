@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Supply-Chain on Lucas Brown — Cybersecurity Blog</title>
-    <link>http://localhost:1313/tags/supply-chain/</link>
+    <link>http://localhost:1313/cyber_blog/tags/supply-chain/</link>
     <description>Recent content in Supply-Chain on Lucas Brown — Cybersecurity Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2025 Lucas Brown</copyright>
-    <lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/supply-chain/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/cyber_blog/tags/supply-chain/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Malicious Nx Packages Attack Leaked 2,349 Credentials</title>
-      <link>http://localhost:1313/posts/s1ngularity-nx-supply-chain/</link>
+      <link>http://localhost:1313/cyber_blog/posts/s1ngularity-nx-supply-chain/</link>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/s1ngularity-nx-supply-chain/</guid>
+      <guid>http://localhost:1313/cyber_blog/posts/s1ngularity-nx-supply-chain/</guid>
       <description></description>
       
     </item>

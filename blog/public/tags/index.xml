@@ -2,219 +2,219 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Lucas Brown — Cybersecurity Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/cyber_blog/tags/</link>
     <description>Recent content in Tags on Lucas Brown — Cybersecurity Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2025 Lucas Brown</copyright>
-    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/cyber_blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI Security</title>
-      <link>http://localhost:1313/tags/ai-security/</link>
+      <link>http://localhost:1313/cyber_blog/tags/ai-security/</link>
       <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/ai-security/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/ai-security/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LLM</title>
-      <link>http://localhost:1313/tags/llm/</link>
+      <link>http://localhost:1313/cyber_blog/tags/llm/</link>
       <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/llm/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/llm/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Malware</title>
-      <link>http://localhost:1313/tags/malware/</link>
+      <link>http://localhost:1313/cyber_blog/tags/malware/</link>
       <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/malware/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/malware/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>SentinelOne</title>
-      <link>http://localhost:1313/tags/sentinelone/</link>
+      <link>http://localhost:1313/cyber_blog/tags/sentinelone/</link>
       <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/sentinelone/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/sentinelone/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Threat Research</title>
-      <link>http://localhost:1313/tags/threat-research/</link>
+      <link>http://localhost:1313/cyber_blog/tags/threat-research/</link>
       <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/threat-research/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/threat-research/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Api</title>
-      <link>http://localhost:1313/tags/api/</link>
+      <link>http://localhost:1313/cyber_blog/tags/api/</link>
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/api/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/api/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Chaos-Mesh</title>
-      <link>http://localhost:1313/tags/chaos-mesh/</link>
+      <link>http://localhost:1313/cyber_blog/tags/chaos-mesh/</link>
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/chaos-mesh/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/chaos-mesh/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Code Injection</title>
-      <link>http://localhost:1313/tags/code-injection/</link>
+      <link>http://localhost:1313/cyber_blog/tags/code-injection/</link>
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/code-injection/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/code-injection/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kubernetes</title>
-      <link>http://localhost:1313/tags/kubernetes/</link>
+      <link>http://localhost:1313/cyber_blog/tags/kubernetes/</link>
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/kubernetes/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/kubernetes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Malicious Packages</title>
-      <link>http://localhost:1313/tags/malicious-packages/</link>
+      <link>http://localhost:1313/cyber_blog/tags/malicious-packages/</link>
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/malicious-packages/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/malicious-packages/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Rce</title>
-      <link>http://localhost:1313/tags/rce/</link>
+      <link>http://localhost:1313/cyber_blog/tags/rce/</link>
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/rce/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/rce/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Security-Research</title>
-      <link>http://localhost:1313/tags/security-research/</link>
+      <link>http://localhost:1313/cyber_blog/tags/security-research/</link>
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/security-research/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/security-research/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Threat-Hunting</title>
-      <link>http://localhost:1313/tags/threat-hunting/</link>
+      <link>http://localhost:1313/cyber_blog/tags/threat-hunting/</link>
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/threat-hunting/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/threat-hunting/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Docker</title>
-      <link>http://localhost:1313/tags/docker/</link>
+      <link>http://localhost:1313/cyber_blog/tags/docker/</link>
       <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/docker/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/docker/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tor</title>
-      <link>http://localhost:1313/tags/tor/</link>
+      <link>http://localhost:1313/cyber_blog/tags/tor/</link>
       <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/tor/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/tor/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>CI/CD</title>
-      <link>http://localhost:1313/tags/ci/cd/</link>
+      <link>http://localhost:1313/cyber_blog/tags/ci/cd/</link>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/ci/cd/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/ci/cd/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GitHub Actions</title>
-      <link>http://localhost:1313/tags/github-actions/</link>
+      <link>http://localhost:1313/cyber_blog/tags/github-actions/</link>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/github-actions/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/github-actions/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Npm</title>
-      <link>http://localhost:1313/tags/npm/</link>
+      <link>http://localhost:1313/cyber_blog/tags/npm/</link>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/npm/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/npm/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Nx</title>
-      <link>http://localhost:1313/tags/nx/</link>
+      <link>http://localhost:1313/cyber_blog/tags/nx/</link>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/nx/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/nx/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Supply-Chain</title>
-      <link>http://localhost:1313/tags/supply-chain/</link>
+      <link>http://localhost:1313/cyber_blog/tags/supply-chain/</link>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/supply-chain/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/supply-chain/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Token-Leakage</title>
-      <link>http://localhost:1313/tags/token-leakage/</link>
+      <link>http://localhost:1313/cyber_blog/tags/token-leakage/</link>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/token-leakage/</guid>
+      <guid>http://localhost:1313/cyber_blog/tags/token-leakage/</guid>
       <description></description>
       
     </item>

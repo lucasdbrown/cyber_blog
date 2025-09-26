@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Lucas Brown — Cybersecurity Blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:1313/cyber_blog/posts/</link>
     <description>Recent content in Posts on Lucas Brown — Cybersecurity Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2025 Lucas Brown</copyright>
-    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/cyber_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>From Prompts to Payloads: Inside MalTerminal and the Rise of AI-Enabled Malware</title>
-      <link>http://localhost:1313/posts/malterminal/</link>
+      <link>http://localhost:1313/cyber_blog/posts/malterminal/</link>
       <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/malterminal/</guid>
+      <guid>http://localhost:1313/cyber_blog/posts/malterminal/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Discovery of MalTerminal 
     &lt;div id=&#34;discovery-of-malterminal&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -30,10 +30,10 @@
     
     <item>
       <title>Chain of CVEs enable RCE in Kubernetes Clusters</title>
-      <link>http://localhost:1313/posts/chaos-mesh-rce/</link>
+      <link>http://localhost:1313/cyber_blog/posts/chaos-mesh-rce/</link>
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/chaos-mesh-rce/</guid>
+      <guid>http://localhost:1313/cyber_blog/posts/chaos-mesh-rce/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Unauthenticated Access via Chaos Mesh Debugging API 
     &lt;div id=&#34;unauthenticated-access-via-chaos-mesh-debugging-api&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -49,10 +49,10 @@
     
     <item>
       <title>Docker API Malware Variant with Botnet Capabilities</title>
-      <link>http://localhost:1313/posts/docker-api-botnet/</link>
+      <link>http://localhost:1313/cyber_blog/posts/docker-api-botnet/</link>
       <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/docker-api-botnet/</guid>
+      <guid>http://localhost:1313/cyber_blog/posts/docker-api-botnet/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;Initial Exploitation 
     &lt;div id=&#34;initial-exploitation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -68,10 +68,10 @@
     
     <item>
       <title>Malicious Nx Packages Attack Leaked 2,349 Credentials</title>
-      <link>http://localhost:1313/posts/s1ngularity-nx-supply-chain/</link>
+      <link>http://localhost:1313/cyber_blog/posts/s1ngularity-nx-supply-chain/</link>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/s1ngularity-nx-supply-chain/</guid>
+      <guid>http://localhost:1313/cyber_blog/posts/s1ngularity-nx-supply-chain/</guid>
       <description></description>
       
     </item>
