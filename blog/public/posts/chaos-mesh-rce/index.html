@@ -98,7 +98,7 @@
   <meta property="og:url" content="http://localhost:1313/posts/chaos-mesh-rce/">
   <meta property="og:site_name" content="Lucas Brown — Cybersecurity Blog">
   <meta property="og:title" content="Chain of CVEs enable RCE in Kubernetes Clusters">
-  <meta property="og:description" content="JFrog Researchers found that if attackers are able to gain initial access to a Kubernetes Cluster’s network, they can exploit a chain of CVEs found in Chaos Mesh to perform remote code execution (RCE) across the cluster. Chaos Mesh is an open-source cloud-native Chaos Engineering platform that offers various types of fault simulation, simulating various abnormalities that might occur during the software development lifecycle. The Chaos Controller Manager, a part of the platform, by default, exposes a GraphQL debugging server, which does not have authentication. This allows an attacker to have access to an API that they can use to kill processes in any Kubernetes pod, which could lead to a cluster-wide Denial of Service (DoS) attack (CVE-2025-59358, CVSS score: 7.5).">
+  <meta property="og:description" content="Unauthenticated Access via Chaos Mesh Debugging API # JFrog Researchers found that if attackers are able to gain initial access to a Kubernetes Cluster’s network, they can exploit a chain of CVEs found in Chaos Mesh to perform remote code execution (RCE) across the cluster. Chaos Mesh is an open-source cloud-native Chaos Engineering platform that offers various types of fault simulation, simulating various abnormalities that might occur during the software development lifecycle. The Chaos Controller Manager, a part of the platform, by default, exposes a GraphQL debugging server, which does not have authentication. This allows an attacker to have access to an API that they can use to kill processes in any Kubernetes pod, which could lead to a cluster-wide Denial of Service (DoS) attack (CVE-2025-59358, CVSS score: 7.5).">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
@@ -114,7 +114,7 @@
   
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Chain of CVEs enable RCE in Kubernetes Clusters">
-  <meta name="twitter:description" content="JFrog Researchers found that if attackers are able to gain initial access to a Kubernetes Cluster’s network, they can exploit a chain of CVEs found in Chaos Mesh to perform remote code execution (RCE) across the cluster. Chaos Mesh is an open-source cloud-native Chaos Engineering platform that offers various types of fault simulation, simulating various abnormalities that might occur during the software development lifecycle. The Chaos Controller Manager, a part of the platform, by default, exposes a GraphQL debugging server, which does not have authentication. This allows an attacker to have access to an API that they can use to kill processes in any Kubernetes pod, which could lead to a cluster-wide Denial of Service (DoS) attack (CVE-2025-59358, CVSS score: 7.5).">
+  <meta name="twitter:description" content="Unauthenticated Access via Chaos Mesh Debugging API # JFrog Researchers found that if attackers are able to gain initial access to a Kubernetes Cluster’s network, they can exploit a chain of CVEs found in Chaos Mesh to perform remote code execution (RCE) across the cluster. Chaos Mesh is an open-source cloud-native Chaos Engineering platform that offers various types of fault simulation, simulating various abnormalities that might occur during the software development lifecycle. The Chaos Controller Manager, a part of the platform, by default, exposes a GraphQL debugging server, which does not have authentication. This allows an attacker to have access to an API that they can use to kill processes in any Kubernetes pod, which could lead to a cluster-wide Denial of Service (DoS) attack (CVE-2025-59358, CVSS score: 7.5).">
 
   <script type="application/ld+json">
   [{
@@ -124,7 +124,7 @@
     "name": "Chain of CVEs enable RCE in Kubernetes Clusters",
     "headline": "Chain of CVEs enable RCE in Kubernetes Clusters",
     
-    "abstract": "\u003cp\u003eJFrog Researchers found that if attackers are able to gain initial access to a Kubernetes Cluster’s network, they can exploit a chain of CVEs found in Chaos Mesh to perform remote code execution (RCE) across the cluster. Chaos Mesh is an open-source cloud-native Chaos Engineering platform that offers various types of fault simulation, simulating various abnormalities that might occur during the software development lifecycle. The Chaos Controller Manager, a part of the platform, by default, exposes a GraphQL debugging server, which does not have authentication. This allows an attacker to have access to an API that they can use to kill processes in any Kubernetes pod, which could lead to a cluster-wide Denial of Service (DoS) attack (CVE-2025-59358, CVSS score: 7.5).\u003c\/p\u003e",
+    "abstract": "\u003ch2 class=\u0022relative group\u0022\u003eUnauthenticated Access via Chaos Mesh Debugging API \n    \u003cdiv id=\u0022unauthenticated-access-via-chaos-mesh-debugging-api\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#unauthenticated-access-via-chaos-mesh-debugging-api\u0022 aria-label=\u0022Anchor\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h2\u003e\n\u003cp\u003eJFrog Researchers found that if attackers are able to gain initial access to a Kubernetes Cluster’s network, they can exploit a chain of CVEs found in Chaos Mesh to perform remote code execution (RCE) across the cluster. Chaos Mesh is an open-source cloud-native Chaos Engineering platform that offers various types of fault simulation, simulating various abnormalities that might occur during the software development lifecycle. The Chaos Controller Manager, a part of the platform, by default, exposes a GraphQL debugging server, which does not have authentication. This allows an attacker to have access to an API that they can use to kill processes in any Kubernetes pod, which could lead to a cluster-wide Denial of Service (DoS) attack (CVE-2025-59358, CVSS score: 7.5).\u003c\/p\u003e",
     "inLanguage": "en-us",
     "url" : "http:\/\/localhost:1313\/posts\/chaos-mesh-rce\/",
     "author" : {
@@ -140,7 +140,7 @@
     "keywords": ["rce","chaos-mesh","kubernetes","api","threat-hunting","code injection","malicious packages","security-research"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "257"
+    "wordCount": "296"
   }]
   </script>
 
@@ -393,7 +393,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-09-18T00:00:00&#43;00:00">September 18, 2025</time><span class="px-2 text-primary-500">&middot;</span><span>257 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">2 mins</span>
+      <time datetime="2025-09-18T00:00:00&#43;00:00">September 18, 2025</time><span class="px-2 text-primary-500">&middot;</span><span>296 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">2 mins</span>
     
 
     
@@ -482,8 +482,30 @@
         
 
         <div class="article-content max-w-prose mb-20">
-          <p>JFrog Researchers found that if attackers are able to gain initial access to a Kubernetes Cluster’s network, they can exploit a chain of CVEs found in Chaos Mesh to perform remote code execution (RCE) across the cluster. Chaos Mesh is an open-source cloud-native Chaos Engineering platform that offers various types of fault simulation, simulating various abnormalities that might occur during the software development lifecycle. The Chaos Controller Manager, a part of the platform, by default, exposes a GraphQL debugging server, which does not have authentication. This allows an attacker to have access to an API that they can use to kill processes in any Kubernetes pod, which could lead to a cluster-wide Denial of Service (DoS) attack (CVE-2025-59358, CVSS score: 7.5).</p>
+          
+<h2 class="relative group">Unauthenticated Access via Chaos Mesh Debugging API 
+    <div id="unauthenticated-access-via-chaos-mesh-debugging-api" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#unauthenticated-access-via-chaos-mesh-debugging-api" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>JFrog Researchers found that if attackers are able to gain initial access to a Kubernetes Cluster’s network, they can exploit a chain of CVEs found in Chaos Mesh to perform remote code execution (RCE) across the cluster. Chaos Mesh is an open-source cloud-native Chaos Engineering platform that offers various types of fault simulation, simulating various abnormalities that might occur during the software development lifecycle. The Chaos Controller Manager, a part of the platform, by default, exposes a GraphQL debugging server, which does not have authentication. This allows an attacker to have access to an API that they can use to kill processes in any Kubernetes pod, which could lead to a cluster-wide Denial of Service (DoS) attack (CVE-2025-59358, CVSS score: 7.5).</p>
+
+<h2 class="relative group">Chained CVEs Enable RCE and Lateral Movement 
+    <div id="chained-cves-enable-rce-and-lateral-movement" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#chained-cves-enable-rce-and-lateral-movement" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
 <p>With access to the Controller Manager, the researchers discovered three mutations that would allow command injection by user input being concatenated directly into “cmd” parameters and executed on a desired pod, allowing attackers to add arbitrary shell commands to execute (RCE). These three mutations—cleanTcs (CVE-2025-59359, CVSS score: 9.8), killProcesses (CVE-2025-59360, CVSS score: 9.8), and cleanIptables (CVE-2025-59361, CVSS score: 9.8)—all allow an attacker to move laterally across a victim’s network. Threat actors could also leverage this access to potentially exfiltrate sensitive data and disrupt critical services across the cluster. Users are advised to update their installations to the latest version as soon as possible.</p>
+<blockquote>
+<p>Takeaway: Chaos Mesh shows how powerful dev/test tools can be weaponized by attackers; resilience testing must go hand-in-hand with hardening and access control.</p></blockquote>
 
 <h2 class="relative group">References 
     <div id="references" class="anchor"></div>
@@ -571,6 +593,27 @@
           
         </span>
         <span>
+          
+            <a class="flex text-right group ml-3" href="/posts/malterminal/">
+              <span class="flex flex-col">
+                <span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >From Prompts to Payloads: Inside MalTerminal and the Rise of AI-Enabled Malware</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2025-09-26T00:00:00&#43;00:00">September 26, 2025</time>
+                  
+                </span>
+              </span>
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+            </a>
           
         </span>
       </div>
